@@ -2,7 +2,8 @@
 
 public class Greet {
     public static void main(String[] args){
-        System.out.println("hello");
+        String saluation = "Good morning";
+        System.out.println(saluation);
         System.out.println("How are you?");
     }
 }
